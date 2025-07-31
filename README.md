@@ -16,3 +16,5 @@
 <p>
   The first player to reach the target score wins the game.
 </p>
+
+<li>Live Demo: <a href="https://game-ba8i1y7x3-abdullahprofiles-projects.vercel.app">Click Here</a></li>
